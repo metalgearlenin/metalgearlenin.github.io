@@ -1,7 +1,7 @@
 body:after { display: block; position: absolute; width: 1px; height: 100%; top: 0px; left: 0px; }
 
 html,body {
-  background-color: #5d091a;
+  background-color: #2f040d;
 }
 
 * {
@@ -11,4 +11,10 @@ html,body {
 
 h1 {
   color: #e81741;
+  font-size: 42px;
+  font-weight: 900;
+}
+
+.center {
+  text-align: center;
 }
