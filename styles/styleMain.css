@@ -15,13 +15,15 @@ h1 {
   font-weight: 900;
 }
 
-.center {
-  text-align: center;
+h2 {
+  color: #e81741;
+  font-size: 32px;
+  font-weight: 600;
 }
 
-.middle {
+.center {
+  text-align: center;
   position: absolute;
-  top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%,0%);
 }
